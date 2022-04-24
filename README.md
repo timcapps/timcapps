@@ -1,4 +1,4 @@
-Hi 👋 My name is Tim Capps
+Hi 👋 my name is Tim Capps
 ==========================
 
 Senior Software Engineer
